@@ -2,6 +2,10 @@
 
 Implement canny edge detector by hand crafting.
 
+## Environment
+Google Colab
+
+## Approach
 follow the five steps:
 
 1. Gaussian filter
