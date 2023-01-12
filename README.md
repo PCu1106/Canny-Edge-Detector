@@ -11,3 +11,10 @@ follow the five steps:
 5. Hysteresis
 
 ## Result
+Before
+
+![image](https://user-images.githubusercontent.com/78251582/212087511-19c49dd2-6ace-4634-a587-c0a572fdbf4e.png)
+
+After
+
+![image](https://user-images.githubusercontent.com/78251582/212087729-93648f62-3010-44d0-a636-7ae6e10f23c6.png)
